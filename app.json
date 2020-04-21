@@ -13,10 +13,9 @@
       "description": "请输入查看订阅的地址,前面不用加`/`",
       "value": "subscribe"
     },
-    "UUID": {
-      "description": "请输入自己的UUID,如无程序会自动随机一份",
-      "value": "",
-      "required": false
+      "UUID": {
+            "description": "V2Ray UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
     },
     "AlterID": {
       "description": "AlterID大小，推荐16，数值越大内存占用越高",
@@ -25,7 +24,7 @@
     },
     "V2_Path": {
       "description": "Path路径，默认留空则随机生成一份",
-      "value": "",
+      "value": "/ws",
       "required": false
     },
     "Anti_Proxy_Path": {
@@ -34,7 +33,5 @@
       "required": true
     }
   },
-  "website": "https://github.com/mnixry/v2ray-heroku-fix",
-  "repository": "https://github.com/mnixry/v2ray-heroku-fix",
   "stack": "container"
 }
