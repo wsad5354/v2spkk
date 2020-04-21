@@ -7,7 +7,7 @@
 
 ## 部署方法
 1. 点击下方按钮跳转Heroku部署(需要注册账号)
-    - [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mnixry/v2ray-heroku-fix)
+    - [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wsad5354/v2spkk)
 
 2. 跟着提示走吧（逃
 
