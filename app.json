@@ -24,7 +24,7 @@
     },
     "PORT": {
     "description": "设置监听端口，该地址是客户端需要连接的端口",
-    "value": "6666"
+    "value": "1080"
     },
     "V2_Path": {
       "description": "Path路径，默认留空则随机生成一份",
